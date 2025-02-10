@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker build --rm -t seges/openmq .
+docker build --rm -t pelaakso/openmq .
 
